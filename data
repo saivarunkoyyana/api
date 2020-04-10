@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "kmp-rtc",
+    "stops": [
+      {
+        "distance": 0,
+        "stop": "kumanpalem"
+      },
+      {
+        "distance": 6,
+        "stop": "gajuwaka"
+      },
+      {
+        "distance": 10,
+        "stop": "sheelanagar"
+      },
+      {
+        "distance": 15,
+        "stop": "nad"
+      },
+      {
+        "distance": 25,
+        "stop": "maddilapalem"
+      },
+      {
+        "distance": 30,
+        "stop": "rtc complex"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ank-rtc complex",
+    "stops": [
+      {
+        "distance": 0,
+        "stop": "ankapalle"
+      },
+      {
+        "distance": 11,
+        "stop": "lankelapallem"
+      },
+      {
+        "distance": 17,
+        "stop": "agnampudi"
+      },
+      {
+        "distance": 20,
+        "stop": "kurmanpalem"
+      },
+      {
+        "distance": 24,
+        "stop": "gajuwaka"
+      },
+      {
+        "distance": 27,
+        "stop": "sheelanagar"
+      },
+      {
+        "distance": 31,
+        "stop": "nad"
+      },
+      {
+        "distance": 41,
+        "stop": "rtc complex"
+      }
+    ]
+  }
+]
